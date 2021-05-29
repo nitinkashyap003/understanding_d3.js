@@ -1,0 +1,18 @@
+.bar {
+    width: 25px;
+    height: 100px;
+    display: inline-block;
+    margin: 0 2px 0 2px;
+    background-color: rgb(168, 166, 4);
+  }
+.bar:hover {
+  fill: black;
+}
+
+svg {
+    background-color: rgb(231, 250, 146);
+}
+
+.scatter_plot {
+  background-color: rgba(202, 177, 231, 0.883);
+}
